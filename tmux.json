@@ -1,0 +1,10 @@
+{
+  "name": "tmux",
+  "version": "2.9a",
+  "homepage": "https://tmux.github.io/",
+  "description": "A terminal multiplexer",
+  "license": "BSD",
+  "dependencies": [],
+  "installer": "scoop install %pkg%",
+  "binary": "tmux"
+}
